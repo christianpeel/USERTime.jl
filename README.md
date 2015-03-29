@@ -1,7 +1,7 @@
 # USERTime.jl
 
 
-A Julia package for measuring elapsed user time in Julia.
+A Julia package for measuring elapsed user time.
 
 ## Installation
 
